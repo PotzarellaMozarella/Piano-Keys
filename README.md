@@ -6,7 +6,7 @@ You can check it out on this link: [Piano-Keys](https://piano-keys.vercel.app/)
 
 ## Project Overview
 
-![Screenshot](public/Jammming.png)
+![Screenshot](Screenshot.png)
 
 The Piano-Keys Interactive Game features an interactive piano player interface and a musical composition to be played. Here's a breakdown of the main components:
 
